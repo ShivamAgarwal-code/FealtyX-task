@@ -48,5 +48,5 @@ To run the FealtyX Task/Bug Tracker locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/fealtyx-task-bug-tracker.git
-   cd fealtyx-task-bug-tracker
+   git clone https://github.com/ShivamAgarwal-code/FealtyX-task.git
+   cd FealtyX-task

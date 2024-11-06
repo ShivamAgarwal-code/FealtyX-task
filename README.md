@@ -30,10 +30,10 @@ This project aims to assess frontend development skills, UI/UX design sensibilit
 
 ## Live Demo
 
-You can try the live version of the FealtyX Task/Bug Tracker here: [Live Demo](https://fealtyx-task-bug-tracker-by-shrey.vercel.app/)
+You can try the live version of the FealtyX Task/Bug Tracker here: [Live Demo](https://fealty-x-task.vercel.app/)
 
 ### Test User Credentials
-- **Email**: `t@user.com`
+- **Email**: `test@user.com`
 - **Password**: `123`
 
 ## Getting Started

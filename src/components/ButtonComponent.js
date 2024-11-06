@@ -1,4 +1,4 @@
-// src/components/ButtonComponent.js
+
 import { Button } from '@chakra-ui/react';
 
 const ButtonComponent = () => {
